@@ -12,7 +12,7 @@ import {
   Plus,
   X,
 } from "lucide-react";
-import "./SpillNChill.css";
+import "./SpillnChill.css";
 
 const moods = [
   { emoji: "🍵", label: "Spill tea" },
